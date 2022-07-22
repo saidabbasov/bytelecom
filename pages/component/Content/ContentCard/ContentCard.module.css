@@ -1,0 +1,42 @@
+.contentCard {
+    border-radius: 5px;
+    width: 250px;
+    padding: 20px;
+    margin-right: 30px;
+    margin-bottom:40px;
+}
+
+.contentCard:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+}
+
+.contentSale {
+    display: flex;
+}
+
+.btn {
+    margin-left:80px
+}
+.btn button {
+    border: 1px solid teal;
+    padding: 5px 20px;
+    background-color: white;
+    cursor:pointer
+}
+
+.btn button:hover {
+    background-color: teal;
+    color:white;
+}
+
+.btn button:active {
+    background-color: white;
+    color:black;
+}
+
+.mobileName {
+    margin: 10px 0 15px 0;
+    font-size: 15px;
+    font-weight: 600px;
+    font-family: sans-serif
+}

@@ -1,0 +1,15 @@
+.auth {
+    border: 1px solid teal;
+}
+.auth form {
+    /* display:flex; */
+    justify-content: center;
+    
+}
+
+.auth input {
+    
+    width: 300px;
+    height:30px;
+    border-radius:10px;
+}

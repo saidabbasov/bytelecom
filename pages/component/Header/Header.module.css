@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.headerBar {
+    display:flex;
+    margin-left: 250px;
+}
+
+.basket {
+    margin-left: 10px
+}
+
+.basketTitle {
+    margin-left: 18px
+}
+
+.logo {
+   align-item:center;
+   margin-left: 150px
+}
+
+.nav {
+    display: flex;
+    margin: 8px 0 0 0;
+}
+
+.navBlock {
+    display: flex;
+    margin-top:10px;
+}
+
+.nav a {
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.nav a:hover {
+    color: teal;
+}
